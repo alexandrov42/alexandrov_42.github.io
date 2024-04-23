@@ -1,0 +1,6633 @@
+2014-2015:
+  zenit:
+    - guests: cska moscow
+      home_goals: 2
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 4
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 3
+      guests_goals: 2
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: mordovia
+      home_goals: 5
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 3
+    - guests: kuban
+      home_goals: 1
+      guests_goals: 0
+    - guests: amkar perm
+      home_goals: 2
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 0
+    - guests: ural
+      home_goals: 3
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 3
+      guests_goals: 0
+    - guests: torpedo moscow
+      home_goals: 8
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 0 
+  cska moscow:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 2
+    - guests: rubin kazan
+      home_goals: 3
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: mordovia
+      home_goals: 4
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 0
+    - guests: kuban
+      home_goals: 6
+      guests_goals: 0
+    - guests: amkar perm
+      home_goals: 2
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 5
+      guests_goals: 0
+    - guests: ural
+      home_goals: 3
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 6
+      guests_goals: 0
+    - guests: torpedo moscow
+      home_goals: 4
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 2
+      guests_goals: 1 
+  krasnodar:
+    - guests: zenit
+      home_goals: 2
+      guests_goals: 2
+    - guests: cska moscow
+      home_goals: 2
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 2
+    - guests: rubin kazan
+      home_goals: 2
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 4
+      guests_goals: 0
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: mordovia
+      home_goals: 4
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 2
+      guests_goals: 0
+    - guests: kuban
+      home_goals: 3
+      guests_goals: 2
+    - guests: amkar perm
+      home_goals: 1
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 2
+    - guests: ural
+      home_goals: 1
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 1
+    - guests: torpedo moscow
+      home_goals: 2
+      guests_goals: 2
+    - guests: arsenal tula
+      home_goals: 3
+      guests_goals: 0
+  dynamo mosc:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 2
+      guests_goals: 2
+    - guests: mordovia
+      home_goals: 2
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 3
+      guests_goals: 0
+    - guests: kuban
+      home_goals: 2
+      guests_goals: 2
+    - guests: amkar perm
+      home_goals: 5
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 3
+      guests_goals: 1
+    - guests: ural
+      home_goals: 2
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 7
+      guests_goals: 3
+    - guests: torpedo moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 2
+      guests_goals: 2
+  rubin kazan:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 2
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 2
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 4
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: mordovia
+      home_goals: 5
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 2
+      guests_goals: 1
+    - guests: kuban
+      home_goals: 1
+      guests_goals: 0
+    - guests: amkar perm
+      home_goals: 1
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 1
+    - guests: ural
+      home_goals: 2
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 0
+    - guests: torpedo moscow
+      home_goals: 2
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 0
+  spartak moscow:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 4
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 3
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 0
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: mordovia
+      home_goals: 4
+      guests_goals: 2
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 1
+    - guests: kuban
+      home_goals: 1
+      guests_goals: 1
+    - guests: amkar perm
+      home_goals: 3
+      guests_goals: 3
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 2
+    - guests: ural
+      home_goals: 2
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 1
+    - guests: torpedo moscow
+      home_goals: 3
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 2
+      guests_goals: 0
+  loko moscow:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 3
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 4
+      guests_goals: 2
+    - guests: rubin kazan
+      home_goals: 3
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: mordovia
+      home_goals: 1
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 2
+      guests_goals: 1
+    - guests: kuban
+      home_goals: 1
+      guests_goals: 1
+    - guests: amkar perm
+      home_goals: 3
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 0
+    - guests: ural
+      home_goals: 1
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 1
+    - guests: torpedo moscow
+      home_goals: 2
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 0
+      guests_goals: 1
+  mordovia:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 0
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 2
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 0
+    - guests: kuban
+      home_goals: 0
+      guests_goals: 0
+    - guests: amkar perm
+      home_goals: 1
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 2
+    - guests: ural
+      home_goals: 2
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 0
+    - guests: torpedo moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 0
+  akhmat grozny:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 2
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 4
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: mordovia
+      home_goals: 1
+      guests_goals: 0
+    - guests: kuban
+      home_goals: 0
+      guests_goals: 0
+    - guests: amkar perm
+      home_goals: 4
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 0
+    - guests: ural
+      home_goals: 1
+      guests_goals: 3
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 1
+    - guests: torpedo moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 3
+      guests_goals: 0
+  kuban:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 0
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 2
+    - guests: rubin kazan
+      home_goals: 2
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 3
+      guests_goals: 3
+    - guests: loko moscow
+      home_goals: 2
+      guests_goals: 1
+    - guests: mordovia
+      home_goals: 0
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 0
+    - guests: amkar perm
+      home_goals: 1
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 2
+      guests_goals: 0
+    - guests: ural
+      home_goals: 0
+      guests_goals: 2
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 2
+    - guests: torpedo moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 5
+      guests_goals: 1
+  amkar perm:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 0
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 2
+    - guests: dynamo mosc
+      home_goals: 2
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 3
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 0
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: mordovia
+      home_goals: 0
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 2
+      guests_goals: 1
+    - guests: kuban
+      home_goals: 1
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 1
+    - guests: ural
+      home_goals: 2
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 0
+    - guests: torpedo moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 0
+      guests_goals: 1
+  ufa:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 3
+      guests_goals: 3
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 2
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 2
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: mordovia
+      home_goals: 1
+      guests_goals: 2
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 1
+    - guests: kuban
+      home_goals: 3
+      guests_goals: 2
+    - guests: amkar perm
+      home_goals: 1
+      guests_goals: 1
+    - guests: ural
+      home_goals: 0
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 0
+    - guests: torpedo moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 0
+      guests_goals: 1
+  ural:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 2
+    - guests: cska moscow
+      home_goals: 3
+      guests_goals: 4
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 2
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 3
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 0
+    - guests: loko moscow
+      home_goals: 2
+      guests_goals: 0
+    - guests: mordovia
+      home_goals: 2
+      guests_goals: 3
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 1
+    - guests: kuban
+      home_goals: 0
+      guests_goals: 1
+    - guests: amkar perm
+      home_goals: 1
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 1
+    - guests: torpedo moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 0
+  rostov:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 5
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 2
+    - guests: dynamo mosc
+      home_goals: 2
+      guests_goals: 2
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: mordovia
+      home_goals: 2
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 1
+    - guests: kuban
+      home_goals: 2
+      guests_goals: 1
+    - guests: amkar perm
+      home_goals: 1
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 2
+      guests_goals: 0
+    - guests: ural
+      home_goals: 1
+      guests_goals: 0
+    - guests: torpedo moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 0
+      guests_goals: 1
+  torpedo moscow:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 3
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 3
+    - guests: rubin kazan
+      home_goals: 2
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: mordovia
+      home_goals: 2
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 0
+    - guests: kuban
+      home_goals: 0
+      guests_goals: 0
+    - guests: amkar perm
+      home_goals: 1
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 2
+      guests_goals: 2
+    - guests: ural
+      home_goals: 3
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 0
+      guests_goals: 1
+  arsenal tula:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 4
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 4
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 3
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 2
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: mordovia
+      home_goals: 0
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 1
+    - guests: kuban
+      home_goals: 0
+      guests_goals: 1
+    - guests: amkar perm
+      home_goals: 4
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 1
+    - guests: ural
+      home_goals: 1
+      guests_goals: 2
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 1
+    - guests: torpedo moscow
+      home_goals: 1
+      guests_goals: 3
+2015-2016:
+  cska moscow:
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 1
+    - guests: zenit
+      home_goals: 2
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 2
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 0
+    - guests: ural
+      home_goals: 3
+      guests_goals: 2
+    - guests: samara
+      home_goals: 0
+      guests_goals: 2
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 0
+    - guests: amkar perm
+      home_goals: 2
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 2
+      guests_goals: 0
+    - guests: anzhi
+      home_goals: 1
+      guests_goals: 0
+    - guests: kuban
+      home_goals: 2
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 0
+    - guests: mordovia
+      home_goals: 7
+      guests_goals: 1
+  rostov:
+    - guests: cska moscow
+      home_goals: 2
+      guests_goals: 0
+    - guests: zenit
+      home_goals: 3
+      guests_goals: 0
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 0
+    - guests: loko moscow
+      home_goals: 2
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 1
+    - guests: ural
+      home_goals: 1
+      guests_goals: 0
+    - guests: samara
+      home_goals: 1
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 0
+    - guests: amkar perm
+      home_goals: 1
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 1
+    - guests: anzhi
+      home_goals: 1
+      guests_goals: 0
+    - guests: kuban
+      home_goals: 2
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 0
+    - guests: mordovia
+      home_goals: 3
+      guests_goals: 2
+  zenit:
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 0
+    - guests: cska moscow
+      home_goals: 3
+      guests_goals: 0
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 5
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 3
+      guests_goals: 0
+    - guests: ural
+      home_goals: 3
+      guests_goals: 0
+    - guests: samara
+      home_goals: 1
+      guests_goals: 3
+    - guests: rubin kazan
+      home_goals: 4
+      guests_goals: 2
+    - guests: amkar perm
+      home_goals: 1
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 1
+    - guests: anzhi
+      home_goals: 5
+      guests_goals: 1
+    - guests: kuban
+      home_goals: 4
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 2
+      guests_goals: 1
+    - guests: mordovia
+      home_goals: 0
+      guests_goals: 0
+  krasnodar:
+    - guests: cska moscow
+      home_goals: 2
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 1
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 1
+    - guests: ural
+      home_goals: 6
+      guests_goals: 0
+    - guests: samara
+      home_goals: 3
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 2
+      guests_goals: 1
+    - guests: amkar perm
+      home_goals: 1
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 4
+      guests_goals: 0
+    - guests: anzhi
+      home_goals: 3
+      guests_goals: 0
+    - guests: kuban
+      home_goals: 1
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 4
+      guests_goals: 0
+    - guests: mordovia
+      home_goals: 0
+      guests_goals: 0
+  spartak moscow:
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 0
+    - guests: zenit
+      home_goals: 2
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 3
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: akhmat grozny
+      home_goals: 3
+      guests_goals: 0
+    - guests: ural
+      home_goals: 0
+      guests_goals: 1
+    - guests: samara
+      home_goals: 1
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 0
+    - guests: amkar perm
+      home_goals: 2
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 2
+      guests_goals: 2
+    - guests: anzhi
+      home_goals: 1
+      guests_goals: 2
+    - guests: kuban
+      home_goals: 2
+      guests_goals: 2
+    - guests: dynamo mosc
+      home_goals: 3
+      guests_goals: 0
+    - guests: mordovia
+      home_goals: 2
+      guests_goals: 2
+  loko moscow:
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 2
+    - guests: zenit
+      home_goals: 2
+      guests_goals: 0
+    - guests: krasnodar
+      home_goals: 2
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 0
+    - guests: ural
+      home_goals: 2
+      guests_goals: 2
+    - guests: samara
+      home_goals: 2
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 0
+    - guests: amkar perm
+      home_goals: 3
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 2
+      guests_goals: 0
+    - guests: anzhi
+      home_goals: 0
+      guests_goals: 2
+    - guests: kuban
+      home_goals: 0
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 1
+    - guests: mordovia
+      home_goals: 3
+      guests_goals: 0
+  akhmat grozny:
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 2
+    - guests: zenit
+      home_goals: 4
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 2
+      guests_goals: 1
+    - guests: ural
+      home_goals: 1
+      guests_goals: 1
+    - guests: samara
+      home_goals: 0
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 2
+      guests_goals: 1
+    - guests: amkar perm
+      home_goals: 2
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 4
+      guests_goals: 1
+    - guests: anzhi
+      home_goals: 3
+      guests_goals: 2
+    - guests: kuban
+      home_goals: 1
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 1
+    - guests: mordovia
+      home_goals: 0
+      guests_goals: 0
+  ural:
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 3
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 2
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 4
+    - guests: krasnodar
+      home_goals: 3
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 3
+    - guests: akhmat grozny
+      home_goals: 3
+      guests_goals: 3
+    - guests: samara
+      home_goals: 1
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 1
+    - guests: amkar perm
+      home_goals: 3
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 0
+    - guests: anzhi
+      home_goals: 4
+      guests_goals: 2
+    - guests: kuban
+      home_goals: 2
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 1
+    - guests: mordovia
+      home_goals: 3
+      guests_goals: 1
+  samara:
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 1
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 4
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 2
+    - guests: ural
+      home_goals: 1
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 1
+    - guests: amkar perm
+      home_goals: 0
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 0
+    - guests: anzhi
+      home_goals: 0
+      guests_goals: 0
+    - guests: kuban
+      home_goals: 3
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 0
+    - guests: mordovia
+      home_goals: 1
+      guests_goals: 0
+  rubin kazan:
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 3
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 3
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 3
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 1
+    - guests: ural
+      home_goals: 1
+      guests_goals: 2
+    - guests: samara
+      home_goals: 2
+      guests_goals: 0
+    - guests: amkar perm
+      home_goals: 0
+      guests_goals: 2
+    - guests: ufa
+      home_goals: 3
+      guests_goals: 1
+    - guests: anzhi
+      home_goals: 1
+      guests_goals: 2
+    - guests: kuban
+      home_goals: 1
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 4
+      guests_goals: 1
+    - guests: mordovia
+      home_goals: 1
+      guests_goals: 1
+  amkar perm:
+    - guests: cska moscow
+      home_goals: 2
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 0
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 3
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 0
+    - guests: ural
+      home_goals: 1
+      guests_goals: 1
+    - guests: samara
+      home_goals: 1
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 2
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 0
+    - guests: anzhi
+      home_goals: 1
+      guests_goals: 1
+    - guests: kuban
+      home_goals: 1
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 1
+    - guests: mordovia
+      home_goals: 2
+      guests_goals: 1
+  ufa:
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 3
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 2
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 3
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 3
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 0
+    - guests: ural
+      home_goals: 0
+      guests_goals: 1
+    - guests: samara
+      home_goals: 1
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 1
+    - guests: amkar perm
+      home_goals: 2
+      guests_goals: 1
+    - guests: anzhi
+      home_goals: 2
+      guests_goals: 0
+    - guests: kuban
+      home_goals: 2
+      guests_goals: 2
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 1
+    - guests: mordovia
+      home_goals: 1
+      guests_goals: 1
+  anzhi:
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 0
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 2
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 4
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 3
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 2
+    - guests: ural
+      home_goals: 1
+      guests_goals: 1
+    - guests: samara
+      home_goals: 0
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 2
+    - guests: amkar perm
+      home_goals: 0
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 1
+    - guests: kuban
+      home_goals: 1
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 2
+      guests_goals: 3
+    - guests: mordovia
+      home_goals: 3
+      guests_goals: 0
+  kuban:
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 1
+    - guests: zenit
+      home_goals: 2
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 2
+      guests_goals: 3
+    - guests: spartak moscow
+      home_goals: 3
+      guests_goals: 0
+    - guests: loko moscow
+      home_goals: 6
+      guests_goals: 2
+    - guests: akhmat grozny
+      home_goals: 2
+      guests_goals: 2
+    - guests: ural
+      home_goals: 0
+      guests_goals: 2
+    - guests: samara
+      home_goals: 2
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 1
+    - guests: amkar perm
+      home_goals: 1
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 1
+    - guests: anzhi
+      home_goals: 1
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 0
+    - guests: mordovia
+      home_goals: 1
+      guests_goals: 2
+  dynamo mosc:
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 3
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 3
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 4
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 3
+    - guests: loko moscow
+      home_goals: 2
+      guests_goals: 2
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 1
+    - guests: ural
+      home_goals: 1
+      guests_goals: 0
+    - guests: samara
+      home_goals: 0
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 0
+    - guests: amkar perm
+      home_goals: 0
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 2
+      guests_goals: 0
+    - guests: anzhi
+      home_goals: 1
+      guests_goals: 2
+    - guests: kuban
+      home_goals: 2
+      guests_goals: 1
+    - guests: mordovia
+      home_goals: 2
+      guests_goals: 2
+  mordovia:
+    - guests: cska moscow
+      home_goals: 4
+      guests_goals: 6
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 1
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 3
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 0
+    - guests: ural
+      home_goals: 1
+      guests_goals: 1
+    - guests: samara
+      home_goals: 1
+      guests_goals: 2
+    - guests: rubin kazan
+      home_goals: 2
+      guests_goals: 1
+    - guests: amkar perm
+      home_goals: 1
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 1
+    - guests: anzhi
+      home_goals: 4
+      guests_goals: 0
+    - guests: kuban
+      home_goals: 1
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 1
+2016-2017:
+  spartak moscow:
+    - guests: cska moscow
+      home_goals: 3
+      guests_goals: 1
+    - guests: zenit
+      home_goals: 2
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 2
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 3
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 2
+      guests_goals: 1
+    - guests: amkar perm
+      home_goals: 1
+      guests_goals: 0
+    - guests: ural
+      home_goals: 1
+      guests_goals: 0
+    - guests: anzhi
+      home_goals: 1
+      guests_goals: 0
+    - guests: orenburg
+      home_goals: 3
+      guests_goals: 2
+    - guests: arsenal tula
+      home_goals: 4
+      guests_goals: 0
+    - guests: samara
+      home_goals: 1
+      guests_goals: 0
+    - guests: tom tomsk
+      home_goals: 1
+      guests_goals: 0
+  cska moscow:
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 0
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 3
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 0
+    - guests: loko moscow
+      home_goals: 4
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 0
+    - guests: amkar perm
+      home_goals: 2
+      guests_goals: 2
+    - guests: ural
+      home_goals: 4
+      guests_goals: 0
+    - guests: anzhi
+      home_goals: 4
+      guests_goals: 0
+    - guests: orenburg
+      home_goals: 2
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 3
+      guests_goals: 0
+    - guests: samara
+      home_goals: 2
+      guests_goals: 1
+    - guests: tom tomsk
+      home_goals: 4
+      guests_goals: 0
+  zenit:
+    - guests: spartak moscow
+      home_goals: 4
+      guests_goals: 2
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 3
+      guests_goals: 2
+    - guests: ufa
+      home_goals: 2
+      guests_goals: 0
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 4
+      guests_goals: 1
+    - guests: amkar perm
+      home_goals: 3
+      guests_goals: 0
+    - guests: ural
+      home_goals: 2
+      guests_goals: 0
+    - guests: anzhi
+      home_goals: 1
+      guests_goals: 1
+    - guests: orenburg
+      home_goals: 1
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 2
+      guests_goals: 0
+    - guests: samara
+      home_goals: 3
+      guests_goals: 1
+    - guests: tom tomsk
+      home_goals: 1
+      guests_goals: 0
+  krasnodar:
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 2
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: zenit
+      home_goals: 2
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 4
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 0
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 0
+    - guests: amkar perm
+      home_goals: 1
+      guests_goals: 0
+    - guests: ural
+      home_goals: 3
+      guests_goals: 0
+    - guests: anzhi
+      home_goals: 0
+      guests_goals: 0
+    - guests: orenburg
+      home_goals: 3
+      guests_goals: 3
+    - guests: arsenal tula
+      home_goals: 2
+      guests_goals: 0
+    - guests: samara
+      home_goals: 1
+      guests_goals: 1
+    - guests: tom tomsk
+      home_goals: 3
+      guests_goals: 0
+  akhmat grozny:
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: zenit
+      home_goals: 2
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 2
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 3
+      guests_goals: 1
+    - guests: amkar perm
+      home_goals: 1
+      guests_goals: 3
+    - guests: ural
+      home_goals: 5
+      guests_goals: 2
+    - guests: anzhi
+      home_goals: 0
+      guests_goals: 1
+    - guests: orenburg
+      home_goals: 2
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 3
+      guests_goals: 1
+    - guests: samara
+      home_goals: 1
+      guests_goals: 0
+    - guests: tom tomsk
+      home_goals: 0
+      guests_goals: 0
+  rostov:
+    - guests: spartak moscow
+      home_goals: 3
+      guests_goals: 0
+    - guests: cska moscow
+      home_goals: 2
+      guests_goals: 0
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 0
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 0
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 4
+      guests_goals: 2
+    - guests: amkar perm
+      home_goals: 1
+      guests_goals: 0
+    - guests: ural
+      home_goals: 0
+      guests_goals: 0
+    - guests: anzhi
+      home_goals: 2
+      guests_goals: 0
+    - guests: orenburg
+      home_goals: 1
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 4
+      guests_goals: 1
+    - guests: samara
+      home_goals: 2
+      guests_goals: 1
+    - guests: tom tomsk
+      home_goals: 3
+      guests_goals: 0
+  ufa:
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 3
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 0
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 3
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 0
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 2
+      guests_goals: 3
+    - guests: amkar perm
+      home_goals: 1
+      guests_goals: 1
+    - guests: ural
+      home_goals: 1
+      guests_goals: 0
+    - guests: anzhi
+      home_goals: 2
+      guests_goals: 1
+    - guests: orenburg
+      home_goals: 1
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 0
+    - guests: samara
+      home_goals: 1
+      guests_goals: 0
+    - guests: tom tomsk
+      home_goals: 1
+      guests_goals: 0
+  loko moscow:
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 2
+    - guests: akhmat grozny
+      home_goals: 2
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 1
+    - guests: amkar perm
+      home_goals: 3
+      guests_goals: 3
+    - guests: ural
+      home_goals: 1
+      guests_goals: 1
+    - guests: anzhi
+      home_goals: 4
+      guests_goals: 0
+    - guests: orenburg
+      home_goals: 4
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 1
+    - guests: samara
+      home_goals: 0
+      guests_goals: 0
+    - guests: tom tomsk
+      home_goals: 2
+      guests_goals: 2
+  rubin kazan:
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 2
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 2
+      guests_goals: 0
+    - guests: amkar perm
+      home_goals: 0
+      guests_goals: 0
+    - guests: ural
+      home_goals: 3
+      guests_goals: 1
+    - guests: anzhi
+      home_goals: 1
+      guests_goals: 2
+    - guests: orenburg
+      home_goals: 0
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 0
+    - guests: samara
+      home_goals: 3
+      guests_goals: 0
+    - guests: tom tomsk
+      home_goals: 2
+      guests_goals: 1
+  amkar perm:
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 0
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 2
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 2
+    - guests: ural
+      home_goals: 1
+      guests_goals: 0
+    - guests: anzhi
+      home_goals: 2
+      guests_goals: 0
+    - guests: orenburg
+      home_goals: 3
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 0
+    - guests: samara
+      home_goals: 0
+      guests_goals: 0
+    - guests: tom tomsk
+      home_goals: 1
+      guests_goals: 0
+  ural:
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 4
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 2
+      guests_goals: 0
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 0
+    - guests: amkar perm
+      home_goals: 1
+      guests_goals: 0
+    - guests: anzhi
+      home_goals: 0
+      guests_goals: 1
+    - guests: orenburg
+      home_goals: 2
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 1
+    - guests: samara
+      home_goals: 1
+      guests_goals: 3
+    - guests: tom tomsk
+      home_goals: 1
+      guests_goals: 0
+  anzhi:
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: zenit
+      home_goals: 2
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 2
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 1
+    - guests: amkar perm
+      home_goals: 3
+      guests_goals: 1
+    - guests: ural
+      home_goals: 2
+      guests_goals: 3
+    - guests: orenburg
+      home_goals: 1
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 0
+    - guests: samara
+      home_goals: 1
+      guests_goals: 3
+    - guests: tom tomsk
+      home_goals: 3
+      guests_goals: 1
+  orenburg:
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 3
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 2
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 1
+    - guests: amkar perm
+      home_goals: 0
+      guests_goals: 0
+    - guests: ural
+      home_goals: 0
+      guests_goals: 1
+    - guests: anzhi
+      home_goals: 0
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 3
+      guests_goals: 0
+    - guests: samara
+      home_goals: 1
+      guests_goals: 0
+    - guests: tom tomsk
+      home_goals: 3
+      guests_goals: 1
+  arsenal tula:
+    - guests: spartak moscow
+      home_goals: 3
+      guests_goals: 0
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 5
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 3
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 0
+    - guests: amkar perm
+      home_goals: 0
+      guests_goals: 0
+    - guests: ural
+      home_goals: 2
+      guests_goals: 0
+    - guests: anzhi
+      home_goals: 1
+      guests_goals: 0
+    - guests: orenburg
+      home_goals: 0
+      guests_goals: 0
+    - guests: samara
+      home_goals: 2
+      guests_goals: 0
+    - guests: tom tomsk
+      home_goals: 3
+      guests_goals: 0
+  samara:
+    - guests: spartak moscow
+      home_goals: 4
+      guests_goals: 0
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 3
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 3
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 3
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 0
+    - guests: amkar perm
+      home_goals: 2
+      guests_goals: 2
+    - guests: ural
+      home_goals: 2
+      guests_goals: 2
+    - guests: anzhi
+      home_goals: 2
+      guests_goals: 1
+    - guests: orenburg
+      home_goals: 1
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 1
+    - guests: tom tomsk
+      home_goals: 3
+      guests_goals: 0
+  tom tomsk:
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 5
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 2
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 6
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 0
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 6
+    - guests: rubin kazan
+      home_goals: 2
+      guests_goals: 2
+    - guests: amkar perm
+      home_goals: 1
+      guests_goals: 0
+    - guests: ural
+      home_goals: 1
+      guests_goals: 1
+    - guests: anzhi
+      home_goals: 0
+      guests_goals: 3
+    - guests: orenburg
+      home_goals: 1
+      guests_goals: 2
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 0
+    - guests: samara
+      home_goals: 0
+      guests_goals: 2
+2017-2018:
+  loko moscow:
+    - guests: cska moscow
+      home_goals: 2
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: krasnodar
+      home_goals: 2
+      guests_goals: 0
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 3
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 0
+    - guests: ural
+      home_goals: 2
+      guests_goals: 1
+    - guests: amkar perm
+      home_goals: 0
+      guests_goals: 1
+    - guests: anzhi
+      home_goals: 1
+      guests_goals: 0
+    - guests: tosno
+      home_goals: 0
+      guests_goals: 2
+    - guests: ska-khabarovsk
+      home_goals: 1
+      guests_goals: 0
+  cska moscow:
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 3
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 2
+      guests_goals: 1
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 6
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 2
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 2
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 0
+    - guests: ural
+      home_goals: 1
+      guests_goals: 0
+    - guests: amkar perm
+      home_goals: 3
+      guests_goals: 0
+    - guests: anzhi
+      home_goals: 2
+      guests_goals: 1
+    - guests: tosno
+      home_goals: 6
+      guests_goals: 0
+    - guests: ska-khabarovsk
+      home_goals: 2
+      guests_goals: 0
+  spartak moscow:
+    - guests: loko moscow
+      home_goals: 3
+      guests_goals: 3
+    - guests: cska moscow
+      home_goals: 3
+      guests_goals: 0
+    - guests: krasnodar
+      home_goals: 2
+      guests_goals: 0
+    - guests: zenit
+      home_goals: 3
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 3
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 2
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 3
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 0
+    - guests: ural
+      home_goals: 2
+      guests_goals: 0
+    - guests: amkar perm
+      home_goals: 0
+      guests_goals: 0
+    - guests: anzhi
+      home_goals: 2
+      guests_goals: 2
+    - guests: tosno
+      home_goals: 2
+      guests_goals: 1
+    - guests: ska-khabarovsk
+      home_goals: 1
+      guests_goals: 0
+  krasnodar:
+    - guests: loko moscow
+      home_goals: 2
+      guests_goals: 0
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 4
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 2
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 3
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 2
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 3
+      guests_goals: 2
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 3
+      guests_goals: 1
+    - guests: ural
+      home_goals: 1
+      guests_goals: 1
+    - guests: amkar perm
+      home_goals: 1
+      guests_goals: 1
+    - guests: anzhi
+      home_goals: 1
+      guests_goals: 1
+    - guests: tosno
+      home_goals: 2
+      guests_goals: 0
+    - guests: ska-khabarovsk
+      home_goals: 4
+      guests_goals: 1
+  zenit:
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 3
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 5
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 2
+    - guests: ufa
+      home_goals: 3
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 0
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 2
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 4
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 2
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 0
+    - guests: ural
+      home_goals: 2
+      guests_goals: 1
+    - guests: amkar perm
+      home_goals: 0
+      guests_goals: 0
+    - guests: anzhi
+      home_goals: 1
+      guests_goals: 0
+    - guests: tosno
+      home_goals: 5
+      guests_goals: 0
+    - guests: ska-khabarovsk
+      home_goals: 6
+      guests_goals: 0
+  ufa:
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 1
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 2
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 3
+      guests_goals: 2
+    - guests: rubin kazan
+      home_goals: 2
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 4
+    - guests: ural
+      home_goals: 2
+      guests_goals: 0
+    - guests: amkar perm
+      home_goals: 3
+      guests_goals: 0
+    - guests: anzhi
+      home_goals: 3
+      guests_goals: 2
+    - guests: tosno
+      home_goals: 5
+      guests_goals: 0
+    - guests: ska-khabarovsk
+      home_goals: 1
+      guests_goals: 0
+  arsenal tula:
+    - guests: loko moscow
+      home_goals: 2
+      guests_goals: 0
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 0
+    - guests: zenit
+      home_goals: 3
+      guests_goals: 3
+    - guests: ufa
+      home_goals: 2
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 2
+    - guests: ural
+      home_goals: 2
+      guests_goals: 2
+    - guests: amkar perm
+      home_goals: 0
+      guests_goals: 1
+    - guests: anzhi
+      home_goals: 2
+      guests_goals: 1
+    - guests: tosno
+      home_goals: 1
+      guests_goals: 2
+    - guests: ska-khabarovsk
+      home_goals: 1
+      guests_goals: 0
+  dynamo mosc:
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 4
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 0
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 2
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 0
+    - guests: ural
+      home_goals: 0
+      guests_goals: 1
+    - guests: amkar perm
+      home_goals: 3
+      guests_goals: 0
+    - guests: anzhi
+      home_goals: 2
+      guests_goals: 0
+    - guests: tosno
+      home_goals: 0
+      guests_goals: 1
+    - guests: ska-khabarovsk
+      home_goals: 2
+      guests_goals: 0
+  akhmat grozny:
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 3
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 2
+      guests_goals: 3
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 2
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 2
+    - guests: dynamo mosc
+      home_goals: 2
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 0
+    - guests: ural
+      home_goals: 0
+      guests_goals: 0
+    - guests: amkar perm
+      home_goals: 1
+      guests_goals: 0
+    - guests: anzhi
+      home_goals: 1
+      guests_goals: 1
+    - guests: tosno
+      home_goals: 1
+      guests_goals: 0
+    - guests: ska-khabarovsk
+      home_goals: 0
+      guests_goals: 0
+  rubin kazan:
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 2
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 2
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 3
+      guests_goals: 2
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 1
+    - guests: ural
+      home_goals: 0
+      guests_goals: 1
+    - guests: amkar perm
+      home_goals: 0
+      guests_goals: 1
+    - guests: anzhi
+      home_goals: 6
+      guests_goals: 0
+    - guests: tosno
+      home_goals: 1
+      guests_goals: 0
+    - guests: ska-khabarovsk
+      home_goals: 3
+      guests_goals: 1
+  rostov:
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 0
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 2
+      guests_goals: 2
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 1
+    - guests: ural
+      home_goals: 1
+      guests_goals: 0
+    - guests: amkar perm
+      home_goals: 0
+      guests_goals: 0
+    - guests: anzhi
+      home_goals: 2
+      guests_goals: 0
+    - guests: tosno
+      home_goals: 2
+      guests_goals: 0
+    - guests: ska-khabarovsk
+      home_goals: 2
+      guests_goals: 0
+  ural:
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 1
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 2
+      guests_goals: 2
+    - guests: akhmat grozny
+      home_goals: 2
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 1
+    - guests: amkar perm
+      home_goals: 0
+      guests_goals: 2
+    - guests: anzhi
+      home_goals: 2
+      guests_goals: 1
+    - guests: tosno
+      home_goals: 3
+      guests_goals: 1
+    - guests: ska-khabarovsk
+      home_goals: 1
+      guests_goals: 1
+  amkar perm:
+    - guests: loko moscow
+      home_goals: 2
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 3
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 0
+      guests_goals: 2
+    - guests: dynamo mosc
+      home_goals: 2
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 3
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 1
+    - guests: ural
+      home_goals: 1
+      guests_goals: 1
+    - guests: anzhi
+      home_goals: 1
+      guests_goals: 2
+    - guests: tosno
+      home_goals: 0
+      guests_goals: 0
+    - guests: ska-khabarovsk
+      home_goals: 3
+      guests_goals: 0
+  anzhi:
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 3
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 4
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 5
+    - guests: zenit
+      home_goals: 2
+      guests_goals: 2
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 3
+      guests_goals: 2
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 3
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 2
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 1
+    - guests: ural
+      home_goals: 0
+      guests_goals: 1
+    - guests: amkar perm
+      home_goals: 1
+      guests_goals: 0
+    - guests: tosno
+      home_goals: 2
+      guests_goals: 0
+    - guests: ska-khabarovsk
+      home_goals: 4
+      guests_goals: 0
+  tosno:
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 3
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 3
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 3
+      guests_goals: 2
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 2
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 1
+    - guests: ural
+      home_goals: 2
+      guests_goals: 2
+    - guests: amkar perm
+      home_goals: 0
+      guests_goals: 2
+    - guests: anzhi
+      home_goals: 2
+      guests_goals: 2
+    - guests: ska-khabarovsk
+      home_goals: 0
+      guests_goals: 0
+  ska-khabarovsk:
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: cska moscow
+      home_goals: 2
+      guests_goals: 4
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 1
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 2
+    - guests: ufa
+      home_goals: 2
+      guests_goals: 2
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 2
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 2
+      guests_goals: 2
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 1
+    - guests: ural
+      home_goals: 0
+      guests_goals: 3
+    - guests: amkar perm
+      home_goals: 0
+      guests_goals: 2
+    - guests: anzhi
+      home_goals: 2
+      guests_goals: 0
+    - guests: tosno
+      home_goals: 0
+      guests_goals: 1
+2018-2019:
+  zenit:
+    - guests: loko moscow
+      home_goals: 5
+      guests_goals: 3
+    - guests: krasnodar
+      home_goals: 2
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 3
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 0
+    - guests: orenburg
+      home_goals: 3
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 0
+    - guests: ural
+      home_goals: 4
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 2
+    - guests: dynamo mosc
+      home_goals: 2
+      guests_goals: 0
+    - guests: samara
+      home_goals: 4
+      guests_goals: 2
+    - guests: ufa
+      home_goals: 2
+      guests_goals: 1
+    - guests: anzhi
+      home_goals: 5
+      guests_goals: 0
+    - guests: yenisey
+      home_goals: 4
+      guests_goals: 1
+  loko moscow:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 0
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 3
+      guests_goals: 1
+    - guests: orenburg
+      home_goals: 2
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 2
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 1
+    - guests: ural
+      home_goals: 1
+      guests_goals: 2
+    - guests: rubin kazan
+      home_goals: 4
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 1
+    - guests: samara
+      home_goals: 2
+      guests_goals: 2
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 0
+    - guests: anzhi
+      home_goals: 2
+      guests_goals: 1
+    - guests: yenisey
+      home_goals: 2
+      guests_goals: 1
+  krasnodar:
+    - guests: zenit
+      home_goals: 2
+      guests_goals: 3
+    - guests: loko moscow
+      home_goals: 2
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 2
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 3
+      guests_goals: 0
+    - guests: orenburg
+      home_goals: 2
+      guests_goals: 2
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 2
+    - guests: ural
+      home_goals: 2
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 3
+      guests_goals: 0
+    - guests: samara
+      home_goals: 1
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 1
+    - guests: anzhi
+      home_goals: 5
+      guests_goals: 0
+    - guests: yenisey
+      home_goals: 3
+      guests_goals: 0
+  cska moscow:
+    - guests: zenit
+      home_goals: 2
+      guests_goals: 0
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 3
+      guests_goals: 0
+    - guests: orenburg
+      home_goals: 2
+      guests_goals: 3
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 1
+    - guests: ural
+      home_goals: 4
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 3
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 2
+      guests_goals: 2
+    - guests: samara
+      home_goals: 6
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 2
+      guests_goals: 2
+    - guests: anzhi
+      home_goals: 2
+      guests_goals: 0
+    - guests: yenisey
+      home_goals: 2
+      guests_goals: 1
+  spartak moscow:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 2
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: arsenal tula
+      home_goals: 2
+      guests_goals: 3
+    - guests: orenburg
+      home_goals: 1
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 2
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 1
+    - guests: ural
+      home_goals: 1
+      guests_goals: 2
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 2
+      guests_goals: 1
+    - guests: samara
+      home_goals: 3
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 0
+    - guests: anzhi
+      home_goals: 1
+      guests_goals: 0
+    - guests: yenisey
+      home_goals: 2
+      guests_goals: 0
+  arsenal tula:
+    - guests: zenit
+      home_goals: 4
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 2
+      guests_goals: 0
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 3
+    - guests: cska moscow
+      home_goals: 2
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 3
+      guests_goals: 0
+    - guests: orenburg
+      home_goals: 2
+      guests_goals: 2
+    - guests: akhmat grozny
+      home_goals: 3
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 1
+    - guests: ural
+      home_goals: 0
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 2
+      guests_goals: 2
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 0
+    - guests: samara
+      home_goals: 4
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 1
+    - guests: anzhi
+      home_goals: 2
+      guests_goals: 0
+    - guests: yenisey
+      home_goals: 2
+      guests_goals: 0
+  orenburg:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 3
+    - guests: rostov
+      home_goals: 3
+      guests_goals: 0
+    - guests: ural
+      home_goals: 2
+      guests_goals: 2
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 0
+    - guests: samara
+      home_goals: 3
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 0
+    - guests: anzhi
+      home_goals: 0
+      guests_goals: 1
+    - guests: yenisey
+      home_goals: 0
+      guests_goals: 0
+  akhmat grozny:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 3
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 3
+    - guests: arsenal tula
+      home_goals: 2
+      guests_goals: 0
+    - guests: orenburg
+      home_goals: 1
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 0
+    - guests: ural
+      home_goals: 1
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 0
+    - guests: samara
+      home_goals: 2
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 2
+      guests_goals: 1
+    - guests: anzhi
+      home_goals: 0
+      guests_goals: 0
+    - guests: yenisey
+      home_goals: 1
+      guests_goals: 0
+  rostov:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 0
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 0
+      guests_goals: 0
+    - guests: orenburg
+      home_goals: 0
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 0
+    - guests: ural
+      home_goals: 2
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 0
+    - guests: samara
+      home_goals: 0
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 0
+    - guests: anzhi
+      home_goals: 1
+      guests_goals: 0
+    - guests: yenisey
+      home_goals: 4
+      guests_goals: 0
+  ural:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 2
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 2
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 2
+      guests_goals: 1
+    - guests: orenburg
+      home_goals: 2
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 2
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 2
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 1
+    - guests: samara
+      home_goals: 1
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 1
+    - guests: anzhi
+      home_goals: 0
+      guests_goals: 1
+    - guests: yenisey
+      home_goals: 3
+      guests_goals: 2
+  rubin kazan:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: krasnodar
+      home_goals: 2
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 0
+      guests_goals: 0
+    - guests: orenburg
+      home_goals: 2
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 2
+    - guests: ural
+      home_goals: 1
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 1
+    - guests: samara
+      home_goals: 2
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 1
+    - guests: anzhi
+      home_goals: 0
+      guests_goals: 0
+    - guests: yenisey
+      home_goals: 1
+      guests_goals: 0
+  dynamo mosc:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 0
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 3
+      guests_goals: 3
+    - guests: orenburg
+      home_goals: 2
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 0
+    - guests: ural
+      home_goals: 4
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 1
+    - guests: samara
+      home_goals: 1
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 3
+      guests_goals: 0
+    - guests: anzhi
+      home_goals: 0
+      guests_goals: 1
+    - guests: yenisey
+      home_goals: 1
+      guests_goals: 2
+  samara:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 3
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: arsenal tula
+      home_goals: 0
+      guests_goals: 1
+    - guests: orenburg
+      home_goals: 0
+      guests_goals: 3
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 2
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 0
+    - guests: ural
+      home_goals: 0
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 1
+    - guests: anzhi
+      home_goals: 1
+      guests_goals: 0
+    - guests: yenisey
+      home_goals: 4
+      guests_goals: 0
+  ufa:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 3
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 2
+    - guests: orenburg
+      home_goals: 0
+      guests_goals: 2
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 0
+    - guests: ural
+      home_goals: 4
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 2
+    - guests: samara
+      home_goals: 1
+      guests_goals: 2
+    - guests: anzhi
+      home_goals: 3
+      guests_goals: 0
+    - guests: yenisey
+      home_goals: 2
+      guests_goals: 1
+  anzhi:
+    - guests: zenit
+      home_goals: 2
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 4
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 3
+    - guests: arsenal tula
+      home_goals: 0
+      guests_goals: 1
+    - guests: orenburg
+      home_goals: 1
+      guests_goals: 3
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 1
+    - guests: ural
+      home_goals: 0
+      guests_goals: 2
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 1
+    - guests: samara
+      home_goals: 0
+      guests_goals: 2
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 0
+    - guests: yenisey
+      home_goals: 2
+      guests_goals: 1
+  yenisey:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 3
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 4
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 3
+    - guests: arsenal tula
+      home_goals: 0
+      guests_goals: 0
+    - guests: orenburg
+      home_goals: 2
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 1
+    - guests: ural
+      home_goals: 1
+      guests_goals: 2
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 2
+      guests_goals: 2
+    - guests: samara
+      home_goals: 1
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 0
+    - guests: anzhi
+      home_goals: 3
+      guests_goals: 1
+2019-2020:
+  zenit:
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 6
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 3
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 3
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 5
+      guests_goals: 0
+    - guests: ural
+      home_goals: 7
+      guests_goals: 1
+    - guests: sochi
+      home_goals: 2
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 0
+    - guests: tambov
+      home_goals: 2
+      guests_goals: 1
+    - guests: samara
+      home_goals: 2
+      guests_goals: 1
+    - guests: orenburg
+      home_goals: 4
+      guests_goals: 1
+  loko moscow:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 0
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 2
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 2
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 3
+    - guests: arsenal tula
+      home_goals: 2
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 1
+    - guests: ural
+      home_goals: 4
+      guests_goals: 0
+    - guests: sochi
+      home_goals: 0
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 0
+    - guests: tambov
+      home_goals: 2
+      guests_goals: 1
+    - guests: samara
+      home_goals: 1
+      guests_goals: 1
+    - guests: orenburg
+      home_goals: 1
+      guests_goals: 0
+  krasnodar:
+    - guests: zenit
+      home_goals: 2
+      guests_goals: 4
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 2
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 2
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 2
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 0
+    - guests: ural
+      home_goals: 3
+      guests_goals: 0
+    - guests: sochi
+      home_goals: 3
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 4
+      guests_goals: 0
+    - guests: tambov
+      home_goals: 0
+      guests_goals: 0
+    - guests: samara
+      home_goals: 4
+      guests_goals: 2
+    - guests: orenburg
+      home_goals: 1
+      guests_goals: 1
+  cska moscow:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 4
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: krasnodar
+      home_goals: 3
+      guests_goals: 2
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 3
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 0
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 1
+    - guests: ural
+      home_goals: 1
+      guests_goals: 1
+    - guests: sochi
+      home_goals: 0
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 3
+      guests_goals: 0
+    - guests: tambov
+      home_goals: 2
+      guests_goals: 0
+    - guests: samara
+      home_goals: 1
+      guests_goals: 0
+    - guests: orenburg
+      home_goals: 2
+      guests_goals: 1
+  rostov:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 3
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 3
+      guests_goals: 2
+    - guests: dynamo mosc
+      home_goals: 3
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 2
+    - guests: arsenal tula
+      home_goals: 2
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 2
+    - guests: rubin kazan
+      home_goals: 2
+      guests_goals: 1
+    - guests: ural
+      home_goals: 0
+      guests_goals: 0
+    - guests: sochi
+      home_goals: 2
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 2
+      guests_goals: 1
+    - guests: tambov
+      home_goals: 1
+      guests_goals: 2
+    - guests: samara
+      home_goals: 1
+      guests_goals: 0
+    - guests: orenburg
+      home_goals: 2
+      guests_goals: 1
+  dynamo mosc:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: arsenal tula
+      home_goals: 0
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 1
+    - guests: ural
+      home_goals: 2
+      guests_goals: 0
+    - guests: sochi
+      home_goals: 2
+      guests_goals: 3
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 1
+    - guests: tambov
+      home_goals: 1
+      guests_goals: 0
+    - guests: samara
+      home_goals: 2
+      guests_goals: 0
+    - guests: orenburg
+      home_goals: 0
+      guests_goals: 1
+  spartak moscow:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 2
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 4
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 0
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 0
+    - guests: ural
+      home_goals: 1
+      guests_goals: 2
+    - guests: sochi
+      home_goals: 1
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 3
+      guests_goals: 0
+    - guests: tambov
+      home_goals: 2
+      guests_goals: 3
+    - guests: samara
+      home_goals: 2
+      guests_goals: 0
+    - guests: orenburg
+      home_goals: 1
+      guests_goals: 2
+  arsenal tula:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 4
+      guests_goals: 0
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 2
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 3
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 3
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 1
+    - guests: ural
+      home_goals: 1
+      guests_goals: 1
+    - guests: sochi
+      home_goals: 1
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 3
+    - guests: tambov
+      home_goals: 2
+      guests_goals: 1
+    - guests: samara
+      home_goals: 2
+      guests_goals: 4
+    - guests: orenburg
+      home_goals: 2
+      guests_goals: 1
+  ufa:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 0
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 2
+      guests_goals: 3
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 0
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 0
+    - guests: ural
+      home_goals: 1
+      guests_goals: 1
+    - guests: sochi
+      home_goals: 1
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 1
+    - guests: tambov
+      home_goals: 2
+      guests_goals: 1
+    - guests: samara
+      home_goals: 2
+      guests_goals: 1
+    - guests: orenburg
+      home_goals: 1
+      guests_goals: 2
+  rubin kazan:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 0
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 0
+    - guests: ural
+      home_goals: 0
+      guests_goals: 0
+    - guests: sochi
+      home_goals: 0
+      guests_goals: 3
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 0
+    - guests: tambov
+      home_goals: 2
+      guests_goals: 1
+    - guests: samara
+      home_goals: 0
+      guests_goals: 1
+    - guests: orenburg
+      home_goals: 1
+      guests_goals: 0
+  ural:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 3
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 2
+      guests_goals: 4
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 3
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 2
+    - guests: dynamo mosc
+      home_goals: 2
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 3
+    - guests: ufa
+      home_goals: 3
+      guests_goals: 2
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 2
+    - guests: sochi
+      home_goals: 3
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 3
+      guests_goals: 0
+    - guests: tambov
+      home_goals: 2
+      guests_goals: 1
+    - guests: samara
+      home_goals: 1
+      guests_goals: 3
+    - guests: orenburg
+      home_goals: 1
+      guests_goals: 2
+  sochi:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 2
+      guests_goals: 0
+    - guests: cska moscow
+      home_goals: 2
+      guests_goals: 3
+    - guests: rostov
+      home_goals: 10
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 2
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 1
+    - guests: ural
+      home_goals: 2
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 2
+      guests_goals: 0
+    - guests: tambov
+      home_goals: 1
+      guests_goals: 2
+    - guests: samara
+      home_goals: 0
+      guests_goals: 2
+    - guests: orenburg
+      home_goals: 5
+      guests_goals: 1
+  akhmat grozny:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 0
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 4
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 2
+      guests_goals: 3
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 3
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 1
+    - guests: ural
+      home_goals: 0
+      guests_goals: 0
+    - guests: sochi
+      home_goals: 1
+      guests_goals: 1
+    - guests: tambov
+      home_goals: 1
+      guests_goals: 1
+    - guests: samara
+      home_goals: 1
+      guests_goals: 1
+    - guests: orenburg
+      home_goals: 2
+      guests_goals: 1
+  tambov:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 2
+      guests_goals: 3
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 2
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 0
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 3
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 0
+    - guests: ural
+      home_goals: 1
+      guests_goals: 2
+    - guests: sochi
+      home_goals: 3
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 2
+    - guests: samara
+      home_goals: 3
+      guests_goals: 0
+    - guests: orenburg
+      home_goals: 3
+      guests_goals: 0
+  samara:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 0
+    - guests: cska moscow
+      home_goals: 2
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: arsenal tula
+      home_goals: 2
+      guests_goals: 3
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 0
+    - guests: ural
+      home_goals: 2
+      guests_goals: 3
+    - guests: sochi
+      home_goals: 3
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 2
+      guests_goals: 4
+    - guests: tambov
+      home_goals: 2
+      guests_goals: 0
+    - guests: orenburg
+      home_goals: 1
+      guests_goals: 1
+  orenburg:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 2
+      guests_goals: 3
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 3
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 4
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 2
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 3
+    - guests: arsenal tula
+      home_goals: 2
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 2
+      guests_goals: 1
+    - guests: ural
+      home_goals: 0
+      guests_goals: 3
+    - guests: sochi
+      home_goals: 1
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 2
+    - guests: tambov
+      home_goals: 2
+      guests_goals: 2
+    - guests: samara
+      home_goals: 0
+      guests_goals: 1
+2020-2021:
+  zenit:
+    - guests: spartak moscow
+      home_goals: 3
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 6
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 2
+    - guests: sochi
+      home_goals: 3
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 2
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 3
+      guests_goals: 1
+    - guests: fc khimki
+      home_goals: 2
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 3
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 4
+      guests_goals: 0
+    - guests: ural
+      home_goals: 5
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 6
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 3
+      guests_goals: 1
+    - guests: rotor volgograd
+      home_goals: 6
+      guests_goals: 0
+    - guests: tambov
+      home_goals: 4
+      guests_goals: 1
+  spartak moscow:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 2
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 2
+    - guests: sochi
+      home_goals: 2
+      guests_goals: 2
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 1
+    - guests: fc khimki
+      home_goals: 2
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 6
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 2
+      guests_goals: 0
+    - guests: ural
+      home_goals: 5
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 3
+    - guests: arsenal tula
+      home_goals: 2
+      guests_goals: 1
+    - guests: rotor volgograd
+      home_goals: 2
+      guests_goals: 0
+    - guests: tambov
+      home_goals: 5
+      guests_goals: 1
+  loko moscow:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 3
+      guests_goals: 1
+    - guests: sochi
+      home_goals: 2
+      guests_goals: 0
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 2
+      guests_goals: 1
+    - guests: fc khimki
+      home_goals: 4
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 0
+    - guests: krasnodar
+      home_goals: 2
+      guests_goals: 3
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 0
+    - guests: ural
+      home_goals: 1
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 0
+    - guests: rotor volgograd
+      home_goals: 1
+      guests_goals: 2
+    - guests: tambov
+      home_goals: 1
+      guests_goals: 0
+  rubin kazan:
+    - guests: zenit
+      home_goals: 2
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: sochi
+      home_goals: 1
+      guests_goals: 0
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 2
+      guests_goals: 0
+    - guests: fc khimki
+      home_goals: 1
+      guests_goals: 3
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 1
+    - guests: ural
+      home_goals: 1
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 3
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 3
+      guests_goals: 1
+    - guests: rotor volgograd
+      home_goals: 1
+      guests_goals: 1
+    - guests: tambov
+      home_goals: 2
+      guests_goals: 2
+  sochi:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: loko moscow
+      home_goals: 2
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 3
+      guests_goals: 2
+    - guests: cska moscow
+      home_goals: 2
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 2
+      guests_goals: 0
+    - guests: fc khimki
+      home_goals: 1
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 4
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 2
+      guests_goals: 0
+    - guests: ural
+      home_goals: 0
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 4
+      guests_goals: 0
+    - guests: rotor volgograd
+      home_goals: 2
+      guests_goals: 1
+    - guests: tambov
+      home_goals: 5
+      guests_goals: 0
+  cska moscow:
+    - guests: zenit
+      home_goals: 2
+      guests_goals: 3
+    - guests: spartak moscow
+      home_goals: 3
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 2
+    - guests: sochi
+      home_goals: 1
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 3
+      guests_goals: 1
+    - guests: fc khimki
+      home_goals: 2
+      guests_goals: 2
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 0
+    - guests: krasnodar
+      home_goals: 3
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 2
+      guests_goals: 0
+    - guests: ural
+      home_goals: 2
+      guests_goals: 2
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 5
+      guests_goals: 1
+    - guests: rotor volgograd
+      home_goals: 2
+      guests_goals: 0
+    - guests: tambov
+      home_goals: 2
+      guests_goals: 1
+  dynamo mosc:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 5
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 1
+    - guests: sochi
+      home_goals: 3
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 3
+      guests_goals: 2
+    - guests: fc khimki
+      home_goals: 0
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 0
+    - guests: krasnodar
+      home_goals: 2
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 0
+    - guests: ural
+      home_goals: 2
+      guests_goals: 2
+    - guests: ufa
+      home_goals: 4
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 0
+    - guests: rotor volgograd
+      home_goals: 0
+      guests_goals: 0
+    - guests: tambov
+      home_goals: 2
+      guests_goals: 0
+  fc khimki:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 3
+    - guests: loko moscow
+      home_goals: 3
+      guests_goals: 2
+    - guests: rubin kazan
+      home_goals: 2
+      guests_goals: 0
+    - guests: sochi
+      home_goals: 0
+      guests_goals: 0
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 0
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 2
+    - guests: ural
+      home_goals: 1
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 2
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 0
+    - guests: rotor volgograd
+      home_goals: 1
+      guests_goals: 1
+    - guests: tambov
+      home_goals: 1
+      guests_goals: 0
+  rostov:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 3
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 1
+    - guests: sochi
+      home_goals: 0
+      guests_goals: 0
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 3
+    - guests: dynamo mosc
+      home_goals: 4
+      guests_goals: 1
+    - guests: fc khimki
+      home_goals: 0
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 3
+    - guests: akhmat grozny
+      home_goals: 3
+      guests_goals: 0
+    - guests: ural
+      home_goals: 1
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 0
+    - guests: rotor volgograd
+      home_goals: 3
+      guests_goals: 0
+    - guests: tambov
+      home_goals: 2
+      guests_goals: 0
+  krasnodar:
+    - guests: zenit
+      home_goals: 2
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 3
+    - guests: loko moscow
+      home_goals: 5
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 3
+      guests_goals: 1
+    - guests: sochi
+      home_goals: 1
+      guests_goals: 3
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 2
+      guests_goals: 3
+    - guests: fc khimki
+      home_goals: 7
+      guests_goals: 2
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 5
+    - guests: ural
+      home_goals: 2
+      guests_goals: 2
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 2
+      guests_goals: 0
+    - guests: rotor volgograd
+      home_goals: 5
+      guests_goals: 0
+    - guests: tambov
+      home_goals: 1
+      guests_goals: 0
+  akhmat grozny:
+    - guests: zenit
+      home_goals: 2
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 0
+    - guests: sochi
+      home_goals: 0
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 3
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 2
+    - guests: fc khimki
+      home_goals: 3
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 2
+      guests_goals: 0
+    - guests: ural
+      home_goals: 2
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 3
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 2
+      guests_goals: 0
+    - guests: rotor volgograd
+      home_goals: 3
+      guests_goals: 1
+    - guests: tambov
+      home_goals: 3
+      guests_goals: 1
+  ural:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 1
+    - guests: sochi
+      home_goals: 1
+      guests_goals: 0
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 2
+    - guests: fc khimki
+      home_goals: 3
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 0
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 2
+      guests_goals: 0
+    - guests: rotor volgograd
+      home_goals: 1
+      guests_goals: 0
+    - guests: tambov
+      home_goals: 0
+      guests_goals: 0
+  ufa:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 3
+    - guests: sochi
+      home_goals: 2
+      guests_goals: 3
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 1
+    - guests: fc khimki
+      home_goals: 1
+      guests_goals: 2
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 3
+    - guests: akhmat grozny
+      home_goals: 3
+      guests_goals: 0
+    - guests: ural
+      home_goals: 1
+      guests_goals: 2
+    - guests: arsenal tula
+      home_goals: 2
+      guests_goals: 1
+    - guests: rotor volgograd
+      home_goals: 0
+      guests_goals: 0
+    - guests: tambov
+      home_goals: 4
+      guests_goals: 0
+  arsenal tula:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 3
+    - guests: rubin kazan
+      home_goals: 2
+      guests_goals: 4
+    - guests: sochi
+      home_goals: 3
+      guests_goals: 2
+    - guests: cska moscow
+      home_goals: 2
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 2
+      guests_goals: 0
+    - guests: fc khimki
+      home_goals: 1
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 3
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 0
+    - guests: ural
+      home_goals: 1
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 2
+      guests_goals: 3
+    - guests: rotor volgograd
+      home_goals: 1
+      guests_goals: 1
+    - guests: tambov
+      home_goals: 4
+      guests_goals: 0
+  rotor volgograd:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 3
+    - guests: sochi
+      home_goals: 1
+      guests_goals: 2
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 3
+    - guests: fc khimki
+      home_goals: 0
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 4
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 3
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 0
+    - guests: ural
+      home_goals: 0
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 0
+    - guests: tambov
+      home_goals: 0
+      guests_goals: 2
+  tambov:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 5
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 2
+      guests_goals: 5
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 1
+    - guests: sochi
+      home_goals: 0
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 2
+    - guests: fc khimki
+      home_goals: 1
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 4
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 1
+    - guests: ural
+      home_goals: 1
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 2
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 1
+    - guests: rotor volgograd
+      home_goals: 1
+      guests_goals: 3
+2021-2022:
+  zenit:
+    - guests: sochi
+      home_goals: 1
+      guests_goals: 2
+    - guests: dynamo mosc
+      home_goals: 4
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 3
+      guests_goals: 2
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: loko moscow
+      home_goals: 3
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 3
+      guests_goals: 1
+    - guests: samara
+      home_goals: 2
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 7
+      guests_goals: 1
+    - guests: nizhny novgorod
+      home_goals: 5
+      guests_goals: 1
+    - guests: ural
+      home_goals: 3
+      guests_goals: 1
+    - guests: fc khimki
+      home_goals: 1
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 2
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 3
+      guests_goals: 2
+    - guests: arsenal tula
+      home_goals: 3
+      guests_goals: 0
+  sochi:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 2
+    - guests: cska moscow
+      home_goals: 4
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 2
+      guests_goals: 2
+    - guests: akhmat grozny
+      home_goals: 3
+      guests_goals: 2
+    - guests: samara
+      home_goals: 2
+      guests_goals: 3
+    - guests: rostov
+      home_goals: 3
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 3
+      guests_goals: 0
+    - guests: nizhny novgorod
+      home_goals: 0
+      guests_goals: 0
+    - guests: ural
+      home_goals: 2
+      guests_goals: 0
+    - guests: fc khimki
+      home_goals: 3
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 3
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 2
+    - guests: arsenal tula
+      home_goals: 2
+      guests_goals: 0
+  dynamo mosc:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 1
+    - guests: sochi
+      home_goals: 1
+      guests_goals: 5
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 0
+    - guests: cska moscow
+      home_goals: 2
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 2
+      guests_goals: 0
+    - guests: samara
+      home_goals: 0
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: nizhny novgorod
+      home_goals: 1
+      guests_goals: 2
+    - guests: ural
+      home_goals: 2
+      guests_goals: 3
+    - guests: fc khimki
+      home_goals: 4
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 2
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 2
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 5
+      guests_goals: 1
+  krasnodar:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 3
+    - guests: sochi
+      home_goals: 3
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 1
+    - guests: samara
+      home_goals: 0
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 1
+    - guests: nizhny novgorod
+      home_goals: 0
+      guests_goals: 0
+    - guests: ural
+      home_goals: 2
+      guests_goals: 1
+    - guests: fc khimki
+      home_goals: 0
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 2
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 3
+      guests_goals: 2
+  cska moscow:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 2
+    - guests: sochi
+      home_goals: 0
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 0
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 0
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: akhmat grozny
+      home_goals: 2
+      guests_goals: 0
+    - guests: samara
+      home_goals: 3
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 4
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: nizhny novgorod
+      home_goals: 1
+      guests_goals: 0
+    - guests: ural
+      home_goals: 2
+      guests_goals: 2
+    - guests: fc khimki
+      home_goals: 0
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 6
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 2
+      guests_goals: 0
+  loko moscow:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 1
+    - guests: sochi
+      home_goals: 2
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 3
+      guests_goals: 3
+    - guests: krasnodar
+      home_goals: 2
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 2
+    - guests: samara
+      home_goals: 2
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: nizhny novgorod
+      home_goals: 2
+      guests_goals: 1
+    - guests: ural
+      home_goals: 0
+      guests_goals: 1
+    - guests: fc khimki
+      home_goals: 3
+      guests_goals: 2
+    - guests: ufa
+      home_goals: 2
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 3
+      guests_goals: 1
+  akhmat grozny:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 2
+    - guests: sochi
+      home_goals: 1
+      guests_goals: 2
+    - guests: dynamo mosc
+      home_goals: 2
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 2
+    - guests: cska moscow
+      home_goals: 2
+      guests_goals: 0
+    - guests: loko moscow
+      home_goals: 2
+      guests_goals: 3
+    - guests: samara
+      home_goals: 1
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: nizhny novgorod
+      home_goals: 3
+      guests_goals: 1
+    - guests: ural
+      home_goals: 1
+      guests_goals: 0
+    - guests: fc khimki
+      home_goals: 4
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 2
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 2
+    - guests: arsenal tula
+      home_goals: 2
+      guests_goals: 1
+  samara:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 1
+    - guests: sochi
+      home_goals: 1
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 5
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 2
+      guests_goals: 0
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 2
+    - guests: rostov
+      home_goals: 4
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: nizhny novgorod
+      home_goals: 2
+      guests_goals: 0
+    - guests: ural
+      home_goals: 1
+      guests_goals: 1
+    - guests: fc khimki
+      home_goals: 3
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 2
+    - guests: rubin kazan
+      home_goals: 2
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 2
+      guests_goals: 2
+  rostov:
+    - guests: zenit
+      home_goals: 2
+      guests_goals: 4
+    - guests: sochi
+      home_goals: 0
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 3
+    - guests: loko moscow
+      home_goals: 4
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 2
+    - guests: samara
+      home_goals: 1
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 3
+      guests_goals: 2
+    - guests: nizhny novgorod
+      home_goals: 1
+      guests_goals: 2
+    - guests: ural
+      home_goals: 1
+      guests_goals: 4
+    - guests: fc khimki
+      home_goals: 2
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 2
+      guests_goals: 2
+    - guests: rubin kazan
+      home_goals: 5
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 4
+      guests_goals: 0
+  spartak moscow:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 1
+    - guests: sochi
+      home_goals: 1
+      guests_goals: 2
+    - guests: dynamo mosc
+      home_goals: 2
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 2
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 2
+      guests_goals: 1
+    - guests: samara
+      home_goals: 2
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 1
+    - guests: nizhny novgorod
+      home_goals: 1
+      guests_goals: 2
+    - guests: ural
+      home_goals: 1
+      guests_goals: 0
+    - guests: fc khimki
+      home_goals: 3
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 2
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 3
+      guests_goals: 0
+  nizhny novgorod:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 0
+    - guests: sochi
+      home_goals: 1
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 4
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 1
+    - guests: samara
+      home_goals: 0
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: ural
+      home_goals: 1
+      guests_goals: 0
+    - guests: fc khimki
+      home_goals: 0
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 2
+    - guests: rubin kazan
+      home_goals: 2
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 2
+      guests_goals: 3
+  ural:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 0
+    - guests: sochi
+      home_goals: 1
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 3
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 0
+    - guests: samara
+      home_goals: 0
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 3
+    - guests: nizhny novgorod
+      home_goals: 1
+      guests_goals: 1
+    - guests: fc khimki
+      home_goals: 0
+      guests_goals: 1
+    - guests: ufa
+      home_goals: 2
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 3
+      guests_goals: 0
+    - guests: arsenal tula
+      home_goals: 2
+      guests_goals: 0
+  fc khimki:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 3
+    - guests: sochi
+      home_goals: 0
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 3
+    - guests: krasnodar
+      home_goals: 3
+      guests_goals: 3
+    - guests: cska moscow
+      home_goals: 4
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 2
+      guests_goals: 0
+    - guests: samara
+      home_goals: 4
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 1
+    - guests: nizhny novgorod
+      home_goals: 1
+      guests_goals: 1
+    - guests: ural
+      home_goals: 0
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 1
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 2
+  ufa:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 1
+    - guests: sochi
+      home_goals: 1
+      guests_goals: 2
+    - guests: dynamo mosc
+      home_goals: 2
+      guests_goals: 3
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 0
+    - guests: samara
+      home_goals: 1
+      guests_goals: 2
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: nizhny novgorod
+      home_goals: 0
+      guests_goals: 0
+    - guests: ural
+      home_goals: 0
+      guests_goals: 1
+    - guests: fc khimki
+      home_goals: 3
+      guests_goals: 2
+    - guests: rubin kazan
+      home_goals: 1
+      guests_goals: 1
+    - guests: arsenal tula
+      home_goals: 2
+      guests_goals: 1
+  rubin kazan:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 3
+    - guests: sochi
+      home_goals: 0
+      guests_goals: 6
+    - guests: dynamo mosc
+      home_goals: 2
+      guests_goals: 3
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: loko moscow
+      home_goals: 2
+      guests_goals: 2
+    - guests: akhmat grozny
+      home_goals: 2
+      guests_goals: 1
+    - guests: samara
+      home_goals: 1
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: nizhny novgorod
+      home_goals: 0
+      guests_goals: 1
+    - guests: ural
+      home_goals: 4
+      guests_goals: 0
+    - guests: fc khimki
+      home_goals: 2
+      guests_goals: 3
+    - guests: ufa
+      home_goals: 1
+      guests_goals: 2
+    - guests: arsenal tula
+      home_goals: 1
+      guests_goals: 0
+  arsenal tula:
+    - guests: zenit
+      home_goals: 2
+      guests_goals: 1
+    - guests: sochi
+      home_goals: 1
+      guests_goals: 2
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 4
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 2
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 3
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 0
+    - guests: samara
+      home_goals: 2
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: nizhny novgorod
+      home_goals: 2
+      guests_goals: 2
+    - guests: ural
+      home_goals: 1
+      guests_goals: 2
+    - guests: fc khimki
+      home_goals: 0
+      guests_goals: 0
+    - guests: ufa
+      home_goals: 0
+      guests_goals: 0
+    - guests: rubin kazan
+      home_goals: 0
+      guests_goals: 3
+2022-2023:
+  zenit:
+    - guests: cska moscow
+      home_goals: 2
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 3
+      guests_goals: 2
+    - guests: rostov
+      home_goals: 3
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 2
+      guests_goals: 2
+    - guests: orenburg
+      home_goals: 8
+      guests_goals: 0
+    - guests: loko moscow
+      home_goals: 5
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 3
+      guests_goals: 1
+    - guests: sochi
+      home_goals: 7
+      guests_goals: 0
+    - guests: ural
+      home_goals: 2
+      guests_goals: 0
+    - guests: samara
+      home_goals: 3
+      guests_goals: 0
+    - guests: nizhny novgorod
+      home_goals: 3
+      guests_goals: 0
+    - guests: fakel voronezh
+      home_goals: 1
+      guests_goals: 0
+    - guests: fc khimki
+      home_goals: 3
+      guests_goals: 2
+    - guests: torpedo moscow
+      home_goals: 2
+      guests_goals: 0
+  cska moscow:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 2
+    - guests: rostov
+      home_goals: 4
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 4
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 4
+      guests_goals: 1
+    - guests: orenburg
+      home_goals: 2
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 1
+    - guests: sochi
+      home_goals: 3
+      guests_goals: 0
+    - guests: ural
+      home_goals: 2
+      guests_goals: 0
+    - guests: samara
+      home_goals: 4
+      guests_goals: 0
+    - guests: nizhny novgorod
+      home_goals: 0
+      guests_goals: 1
+    - guests: fakel voronezh
+      home_goals: 4
+      guests_goals: 1
+    - guests: fc khimki
+      home_goals: 3
+      guests_goals: 0
+    - guests: torpedo moscow
+      home_goals: 3
+      guests_goals: 0
+  spartak moscow:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 2
+    - guests: cska moscow
+      home_goals: 2
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 0
+    - guests: krasnodar
+      home_goals: 4
+      guests_goals: 3
+    - guests: orenburg
+      home_goals: 4
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 3
+      guests_goals: 3
+    - guests: sochi
+      home_goals: 3
+      guests_goals: 0
+    - guests: ural
+      home_goals: 2
+      guests_goals: 2
+    - guests: samara
+      home_goals: 5
+      guests_goals: 2
+    - guests: nizhny novgorod
+      home_goals: 0
+      guests_goals: 0
+    - guests: fakel voronezh
+      home_goals: 3
+      guests_goals: 2
+    - guests: fc khimki
+      home_goals: 5
+      guests_goals: 0
+    - guests: torpedo moscow
+      home_goals: 1
+      guests_goals: 0
+  rostov:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 0
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 4
+      guests_goals: 2
+    - guests: akhmat grozny
+      home_goals: 3
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 3
+      guests_goals: 2
+    - guests: orenburg
+      home_goals: 2
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 3
+    - guests: dynamo mosc
+      home_goals: 2
+      guests_goals: 1
+    - guests: sochi
+      home_goals: 2
+      guests_goals: 2
+    - guests: ural
+      home_goals: 1
+      guests_goals: 2
+    - guests: samara
+      home_goals: 2
+      guests_goals: 1
+    - guests: nizhny novgorod
+      home_goals: 2
+      guests_goals: 1
+    - guests: fakel voronezh
+      home_goals: 0
+      guests_goals: 2
+    - guests: fc khimki
+      home_goals: 1
+      guests_goals: 0
+    - guests: torpedo moscow
+      home_goals: 2
+      guests_goals: 1
+  akhmat grozny:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 0
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 3
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 2
+      guests_goals: 2
+    - guests: orenburg
+      home_goals: 3
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 2
+      guests_goals: 1
+    - guests: sochi
+      home_goals: 1
+      guests_goals: 0
+    - guests: ural
+      home_goals: 2
+      guests_goals: 0
+    - guests: samara
+      home_goals: 1
+      guests_goals: 2
+    - guests: nizhny novgorod
+      home_goals: 1
+      guests_goals: 3
+    - guests: fakel voronezh
+      home_goals: 2
+      guests_goals: 1
+    - guests: fc khimki
+      home_goals: 3
+      guests_goals: 0
+    - guests: torpedo moscow
+      home_goals: 1
+      guests_goals: 0
+  krasnodar:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 4
+    - guests: rostov
+      home_goals: 3
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 2
+      guests_goals: 3
+    - guests: orenburg
+      home_goals: 2
+      guests_goals: 0
+    - guests: loko moscow
+      home_goals: 3
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 3
+      guests_goals: 1
+    - guests: sochi
+      home_goals: 2
+      guests_goals: 1
+    - guests: ural
+      home_goals: 1
+      guests_goals: 1
+    - guests: samara
+      home_goals: 2
+      guests_goals: 1
+    - guests: nizhny novgorod
+      home_goals: 3
+      guests_goals: 1
+    - guests: fakel voronezh
+      home_goals: 2
+      guests_goals: 2
+    - guests: fc khimki
+      home_goals: 3
+      guests_goals: 1
+    - guests: torpedo moscow
+      home_goals: 1
+      guests_goals: 0
+  orenburg:
+    - guests: zenit
+      home_goals: 2
+      guests_goals: 2
+    - guests: cska moscow
+      home_goals: 2
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 2
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 2
+    - guests: akhmat grozny
+      home_goals: 2
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 5
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 4
+    - guests: dynamo mosc
+      home_goals: 3
+      guests_goals: 0
+    - guests: sochi
+      home_goals: 4
+      guests_goals: 1
+    - guests: ural
+      home_goals: 3
+      guests_goals: 0
+    - guests: samara
+      home_goals: 2
+      guests_goals: 4
+    - guests: nizhny novgorod
+      home_goals: 1
+      guests_goals: 0
+    - guests: fakel voronezh
+      home_goals: 4
+      guests_goals: 1
+    - guests: fc khimki
+      home_goals: 3
+      guests_goals: 1
+    - guests: torpedo moscow
+      home_goals: 1
+      guests_goals: 0
+  loko moscow:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 2
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: rostov
+      home_goals: 2
+      guests_goals: 2
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 3
+      guests_goals: 2
+    - guests: orenburg
+      home_goals: 5
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 1
+      guests_goals: 3
+    - guests: sochi
+      home_goals: 3
+      guests_goals: 0
+    - guests: ural
+      home_goals: 2
+      guests_goals: 4
+    - guests: samara
+      home_goals: 1
+      guests_goals: 1
+    - guests: nizhny novgorod
+      home_goals: 1
+      guests_goals: 1
+    - guests: fakel voronezh
+      home_goals: 1
+      guests_goals: 0
+    - guests: fc khimki
+      home_goals: 5
+      guests_goals: 1
+    - guests: torpedo moscow
+      home_goals: 3
+      guests_goals: 1
+  dynamo mosc:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 2
+    - guests: cska moscow
+      home_goals: 2
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 3
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 0
+    - guests: orenburg
+      home_goals: 3
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 2
+      guests_goals: 4
+    - guests: sochi
+      home_goals: 0
+      guests_goals: 2
+    - guests: ural
+      home_goals: 2
+      guests_goals: 1
+    - guests: samara
+      home_goals: 1
+      guests_goals: 0
+    - guests: nizhny novgorod
+      home_goals: 3
+      guests_goals: 1
+    - guests: fakel voronezh
+      home_goals: 0
+      guests_goals: 2
+    - guests: fc khimki
+      home_goals: 6
+      guests_goals: 1
+    - guests: torpedo moscow
+      home_goals: 4
+      guests_goals: 0
+  sochi:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 2
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 0
+    - guests: akhmat grozny
+      home_goals: 2
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 2
+    - guests: orenburg
+      home_goals: 0
+      guests_goals: 4
+    - guests: loko moscow
+      home_goals: 4
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 2
+      guests_goals: 1
+    - guests: ural
+      home_goals: 2
+      guests_goals: 2
+    - guests: samara
+      home_goals: 1
+      guests_goals: 2
+    - guests: nizhny novgorod
+      home_goals: 2
+      guests_goals: 1
+    - guests: fakel voronezh
+      home_goals: 1
+      guests_goals: 1
+    - guests: fc khimki
+      home_goals: 4
+      guests_goals: 1
+    - guests: torpedo moscow
+      home_goals: 3
+      guests_goals: 1
+  ural:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 4
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 3
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 3
+    - guests: orenburg
+      home_goals: 2
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 2
+      guests_goals: 2
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 1
+    - guests: sochi
+      home_goals: 1
+      guests_goals: 0
+    - guests: samara
+      home_goals: 2
+      guests_goals: 1
+    - guests: nizhny novgorod
+      home_goals: 0
+      guests_goals: 1
+    - guests: fakel voronezh
+      home_goals: 2
+      guests_goals: 0
+    - guests: fc khimki
+      home_goals: 2
+      guests_goals: 1
+    - guests: torpedo moscow
+      home_goals: 2
+      guests_goals: 0
+  samara:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 5
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 3
+    - guests: akhmat grozny
+      home_goals: 0
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 0
+    - guests: orenburg
+      home_goals: 1
+      guests_goals: 1
+    - guests: loko moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 2
+    - guests: sochi
+      home_goals: 2
+      guests_goals: 0
+    - guests: ural
+      home_goals: 3
+      guests_goals: 0
+    - guests: nizhny novgorod
+      home_goals: 2
+      guests_goals: 1
+    - guests: fakel voronezh
+      home_goals: 1
+      guests_goals: 1
+    - guests: fc khimki
+      home_goals: 0
+      guests_goals: 0
+    - guests: torpedo moscow
+      home_goals: 1
+      guests_goals: 1
+  nizhny novgorod:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 3
+    - guests: cska moscow
+      home_goals: 2
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: rostov
+      home_goals: 3
+      guests_goals: 4
+    - guests: akhmat grozny
+      home_goals: 3
+      guests_goals: 2
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 2
+    - guests: orenburg
+      home_goals: 0
+      guests_goals: 2
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 4
+    - guests: dynamo mosc
+      home_goals: 2
+      guests_goals: 2
+    - guests: sochi
+      home_goals: 4
+      guests_goals: 0
+    - guests: ural
+      home_goals: 0
+      guests_goals: 0
+    - guests: samara
+      home_goals: 2
+      guests_goals: 1
+    - guests: fakel voronezh
+      home_goals: 3
+      guests_goals: 1
+    - guests: fc khimki
+      home_goals: 2
+      guests_goals: 0
+    - guests: torpedo moscow
+      home_goals: 0
+      guests_goals: 3
+  fakel voronezh:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 0
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 4
+    - guests: rostov
+      home_goals: 1
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 1
+    - guests: krasnodar
+      home_goals: 3
+      guests_goals: 3
+    - guests: orenburg
+      home_goals: 1
+      guests_goals: 3
+    - guests: loko moscow
+      home_goals: 2
+      guests_goals: 0
+    - guests: dynamo mosc
+      home_goals: 3
+      guests_goals: 3
+    - guests: sochi
+      home_goals: 3
+      guests_goals: 0
+    - guests: ural
+      home_goals: 0
+      guests_goals: 0
+    - guests: samara
+      home_goals: 2
+      guests_goals: 1
+    - guests: nizhny novgorod
+      home_goals: 1
+      guests_goals: 0
+    - guests: fc khimki
+      home_goals: 1
+      guests_goals: 1
+    - guests: torpedo moscow
+      home_goals: 2
+      guests_goals: 2
+  fc khimki:
+    - guests: zenit
+      home_goals: 1
+      guests_goals: 1
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 1
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 3
+    - guests: krasnodar
+      home_goals: 0
+      guests_goals: 6
+    - guests: orenburg
+      home_goals: 2
+      guests_goals: 0
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 3
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 1
+    - guests: sochi
+      home_goals: 0
+      guests_goals: 2
+    - guests: ural
+      home_goals: 0
+      guests_goals: 3
+    - guests: samara
+      home_goals: 0
+      guests_goals: 0
+    - guests: nizhny novgorod
+      home_goals: 3
+      guests_goals: 0
+    - guests: fakel voronezh
+      home_goals: 0
+      guests_goals: 0
+    - guests: torpedo moscow
+      home_goals: 4
+      guests_goals: 2
+  torpedo moscow:
+    - guests: zenit
+      home_goals: 0
+      guests_goals: 2
+    - guests: cska moscow
+      home_goals: 1
+      guests_goals: 0
+    - guests: spartak moscow
+      home_goals: 1
+      guests_goals: 2
+    - guests: rostov
+      home_goals: 0
+      guests_goals: 1
+    - guests: akhmat grozny
+      home_goals: 1
+      guests_goals: 5
+    - guests: krasnodar
+      home_goals: 1
+      guests_goals: 4
+    - guests: orenburg
+      home_goals: 1
+      guests_goals: 3
+    - guests: loko moscow
+      home_goals: 0
+      guests_goals: 1
+    - guests: dynamo mosc
+      home_goals: 0
+      guests_goals: 3
+    - guests: sochi
+      home_goals: 1
+      guests_goals: 3
+    - guests: ural
+      home_goals: 0
+      guests_goals: 1
+    - guests: samara
+      home_goals: 0
+      guests_goals: 2
+    - guests: nizhny novgorod
+      home_goals: 0
+      guests_goals: 0
+    - guests: fakel voronezh
+      home_goals: 2
+      guests_goals: 0
+    - guests: fc khimki
+      home_goals: 1
+      guests_goals: 3
